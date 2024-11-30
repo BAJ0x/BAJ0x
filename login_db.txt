@@ -1,0 +1,4 @@
+baza rspo_pgdb
+user: majkel
+pass: baj0jaj0&
+serwer: 31.182.5.243
